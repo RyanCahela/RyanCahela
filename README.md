@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RyanCahela
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning unity and c#
-- 💞️ I’m looking to collaborate on VR and AR applications
+- 👋 Hi, I’m Ryan Cahela
+- 👀 I’m interested in web development.
+- 🌱 I’m currently building protfolio projects with React and Next.js.
+- 💞️ I’m looking to collaborate on web applications.
 - 📫 How to reach me ...
 
 <!---
